@@ -1,2 +1,2 @@
-# react-cakraUI-app
+# App-chakraUI
 Created with CodeSandbox
